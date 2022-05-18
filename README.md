@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flimitcool&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flimitcool)
 
 ![](https://github-readme-stats.vercel.app/api?username=limitcool&theme=dark)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=limitcool&layout=compact&langs_count=6&hide=css,scss,html&theme=github_dark)
 
 ## 🚀 Languages and Tools:
 
