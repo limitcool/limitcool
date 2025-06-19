@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limitcool" alt="limitcool" /></a> </p>
 
-- 🔭 I’m currently working on [xm](https://github.com/limitcool/xm)
+- 🔭 I’m currently working on [starter](https://github.com/limitcool/starter)
 
-- 🌱 I’m currently learning **bevy** 、**slint**
+- 🌱 I’m currently learning **AI** 、**WEB3**
 
 - 📝 I regularly write articles on [https://blog.nmslwsnd.com](https://blog.nmslwsnd.com)
 
