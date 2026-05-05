@@ -13,12 +13,16 @@
 </p>
 
 <p align="center">
-  <strong>Build with existing tools. Ship with clear intent.</strong>
+  <strong>Self-host the stack. Automate the boring parts. Ship with intent.</strong>
 </p>
 
 <p align="center">
-  使用成熟工具构建，用清晰意图交付。<br />
-  Build with existing tools. Ship with clear intent.
+  自托管整套栈，自动化无聊的部分，把精力留给真正值得折腾的问题。<br />
+  Self-host the stack, automate the boring parts, and spend energy on the problems worth obsessing over.
+</p>
+
+<p align="center">
+  <code>rust // go // python // infra // observability // ai workflows</code>
 </p>
 
 <p align="center">
@@ -27,25 +31,50 @@
   <a href="mailto:initcoool@gmail.com">✉️ Email</a>
 </p>
 
+```bash
+$ whoami
+limitcool
+
+$ cat /etc/stack/focus.conf
+mode=self-hosted
+languages=rust,go,python
+interests=observability,automation,ai-workflows
+policy=reuse_mature_tools
+status=shipping
+```
+
+```yaml
+manifest:
+  operator: limitcool
+  runtime: homelab + containers + observability
+  build_with:
+    - rust
+    - go
+    - python
+    - astro
+    - svelte
+  principle: "automate the boring parts, keep the sharp edges visible"
+```
+
 ## ✨ Snapshot
 
 ### 🔧 What I Work On
 
-- 稳定可靠的后端服务 / Reliable backend services
-- 自托管基础设施与自动化 / Self-hosted infrastructure and automation
-- 开发者工具与实用 AI 集成 / Developer tooling and practical AI integrations
+- 稳定可靠、可长期运行的后端系统 / Reliable backend systems built to run for the long haul
+- 自托管基础设施、容器编排与自动化链路 / Self-hosted infrastructure, container orchestration, and automation pipelines
+- 面向真实工作流的开发者工具与 AI 集成 / Developer tooling and AI integrations for real workflows
 
 ### 🧭 How I Build
 
-- 优先复用成熟工具，而不是重复造轮子 / Reuse mature tools before reinventing them
-- 保持系统可观测、可运维 / Keep systems observable and operable
-- 偏好小而清晰、易维护的改动 / Prefer small, clear, maintainable changes
+- 能复用成熟方案，就不重复造轮子 / Reuse proven tools before reinventing the wheel
+- 默认要求系统可观测、可排障、可运维 / Build for observability, debuggability, and operability by default
+- 偏爱小而硬的改动，反对空转式复杂度 / Prefer small, sharp changes over decorative complexity
 
 ## 🚀 Current Focus
 
-- 🤖 AI 工作流与开发效率 / AI workflows and developer productivity
-- 🐳 自托管、容器化与可观测性 / Self-hosting, containers, and observability
-- 🌐 Web 应用与轻量基础设施 / Web applications and lightweight infrastructure
+- 🤖 AI 工作流、代理化工具链与开发效率 / AI workflows, agentic tooling, and developer productivity
+- 🐳 自托管平台、容器栈与可观测体系 / Self-hosted platforms, container stacks, and observability
+- 🌐 Web 应用、内容系统与轻量基础设施 / Web applications, content systems, and lightweight infrastructure
 
 ## 🔗 Selected Links
 
