@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  自托管整套栈，自动化无聊的部分，把精力留给真正值得折腾的问题。<br />
-  Self-host the stack, automate the boring parts, and spend energy on the problems worth obsessing over.
+  自托管整套栈，自动化无聊部分，把精力留给真正值得折腾的问题。<br />
+  Self-host the stack, automate the boring parts, and focus on problems worth obsessing over.
 </p>
 
 <p align="center">
@@ -62,21 +62,21 @@ manifest:
 
 ### 🔧 What I Work On
 
-- 稳定可靠、可长期运行的后端系统 / Reliable backend systems built to run for the long haul
-- 自托管基础设施、容器编排与自动化链路 / Self-hosted infrastructure, container orchestration, and automation pipelines
-- 面向真实工作流的开发者工具与 AI 集成 / Developer tooling and AI integrations for real workflows
+- 后端系统 / Backend systems
+- 自托管基础设施 / Self-hosted infrastructure
+- 开发者工具与 AI 工作流 / Developer tooling and AI workflows
 
 ### 🧭 How I Build
 
-- 能复用成熟方案，就不重复造轮子 / Reuse proven tools before reinventing the wheel
-- 默认要求系统可观测、可排障、可运维 / Build for observability, debuggability, and operability by default
-- 偏爱小而硬的改动，反对空转式复杂度 / Prefer small, sharp changes over decorative complexity
+- 先复用成熟方案，再考虑自造轮子 / Reuse proven tools before reinventing the wheel
+- 默认追求可观测、可排障、可运维 / Build for observability, debuggability, and operability
+- 偏爱小而硬的改动 / Prefer small, sharp changes
 
 ## 🚀 Current Focus
 
-- 🤖 AI 工作流、代理化工具链与开发效率 / AI workflows, agentic tooling, and developer productivity
-- 🐳 自托管平台、容器栈与可观测体系 / Self-hosted platforms, container stacks, and observability
-- 🌐 Web 应用、内容系统与轻量基础设施 / Web applications, content systems, and lightweight infrastructure
+- 🤖 AI workflows / AI 工作流
+- 🐳 Self-hosting and observability / 自托管与可观测性
+- 🌐 Web apps and lightweight systems / Web 应用与轻量系统
 
 ## 🔗 Selected Links
 
