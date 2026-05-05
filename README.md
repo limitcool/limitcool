@@ -72,18 +72,19 @@ manifest:
 - 默认追求可观测、可排障、可运维 / Build for observability, debuggability, and operability
 - 偏爱小而硬的改动 / Prefer small, sharp changes
 
-## 🚀 Current Focus
+### 🚀 Current Focus
 
 - 🤖 AI workflows / AI 工作流
 - 🐳 Self-hosting and observability / 自托管与可观测性
 - 🌐 Web apps and lightweight systems / Web 应用与轻量系统
 
-## 🔗 Selected Links
+### 🔗 Links
 
-- 📝 写作 / Writing: [blog.init.cool](https://blog.init.cool)
-- ✉️ 联系我 / Contact: [initcoool@gmail.com](mailto:initcoool@gmail.com)
+- 📝 Writing / 写作: [blog.init.cool](https://blog.init.cool)
+- 🌐 Home / 主页: [init.cool](https://init.cool)
+- ✉️ Contact / 联系: [initcoool@gmail.com](mailto:initcoool@gmail.com)
 
-## 🧰 Toolbox
+## 🧰 Stack / 工具栈
 
 ### Languages
 
