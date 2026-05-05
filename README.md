@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <strong>Self-host the stack. Automate the boring parts. Ship with intent.</strong>
+  <strong>Build control planes. Run your own stack. Keep systems operable.</strong>
 </p>
 
 <p align="center">
-  自托管、自动化、可观测性。<br />
-  Self-hosting, automation, observability.
+  自托管、控制面、内容系统、自动化。<br />
+  Self-hosting, control planes, content systems, automation.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <code>rust // go // python // infra // observability // ai workflows</code>
+  <code>rust // go // python // astro // svelte // control-plane // self-hosting</code>
 </p>
 
 ```bash
@@ -40,15 +40,15 @@ limitcool
 $ cat /etc/stack/focus.conf
 mode=self-hosted
 languages=rust,go,python
-interests=observability,automation,ai-workflows
+interests=control-planes,content-systems,automation,ai-workflows
 policy=reuse_mature_tools
-status=online
+status=operational
 ```
 
 ```yaml
 manifest:
   operator: limitcool
-  runtime: homelab + containers + observability
+  runtime: homelab + control-planes + content-systems
   build_with:
     - rust
     - go
@@ -62,9 +62,9 @@ manifest:
 
 ### 🔧 What I Work On
 
-- 后端系统 / Backend systems
-- 自托管基础设施 / Self-hosted infrastructure
-- AI 工作流 / AI workflows
+- 后端工具与服务 / Backend tools and services
+- 自托管控制面与基础设施 / Self-hosted control planes and infrastructure
+- 内容系统与 AI 工作流 / Content systems and AI workflows
 
 ### 🧭 How I Build
 
@@ -75,8 +75,8 @@ manifest:
 ### 🚀 Current Focus
 
 - 🤖 AI workflows / AI 工作流
-- 🐳 Self-hosting / 自托管
-- 🌐 Lightweight systems / 轻量系统
+- 🐳 Control planes and self-hosting / 控制面与自托管
+- 🌐 Content systems and lightweight services / 内容系统与轻量服务
 
 ### 🔗 Links
 
