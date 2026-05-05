@@ -67,8 +67,55 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rabbitmq,grafana,elasticsearch,postman" alt="Tools and platforms" />
-  <img src="https://www.proxmox.com/favicon.svg" alt="Proxmox VE" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,grafana,elasticsearch,postman,prometheus" alt="Tools and platforms" />
+</p>
+
+## 🏠 Self-Hosted / Lab Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer" />
+  <img src="https://img.shields.io/badge/Watchtower-416271?style=flat-square&logo=containrrr&logoColor=white" alt="Watchtower" />
+  <img src="https://img.shields.io/badge/CrowdSec-00B9F1?style=flat-square&logo=crowdsec&logoColor=white" alt="CrowdSec" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/GoAccess-111111?style=flat-square&logo=go&logoColor=white" alt="GoAccess" />
+  <img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
+  <img src="https://img.shields.io/badge/Ntfy-317F6A?style=flat-square&logo=ntfy&logoColor=white" alt="ntfy" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white" alt="Bitwarden" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Homepage-111111?style=flat-square&logo=homepage&logoColor=white" alt="Homepage" />
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" alt="Hoppscotch" />
+  <img src="https://img.shields.io/badge/Bytebase-4B7BEC?style=flat-square&logo=bytebase&logoColor=white" alt="Bytebase" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix" />
+  <img src="https://img.shields.io/badge/RustDesk-024EFF?style=flat-square&logo=rustdesk&logoColor=white" alt="RustDesk" />
+  <img src="https://img.shields.io/badge/Code%20Server-1273E6?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Code Server" />
+  <img src="https://img.shields.io/badge/AFFiNE-1E96EB?style=flat-square&logo=affine&logoColor=white" alt="AFFiNE" />
+  <img src="https://img.shields.io/badge/Jackett-222222?style=flat-square&logo=jellyfin&logoColor=white" alt="Jackett" />
+  <img src="https://img.shields.io/badge/Sourcebot-FF6B00?style=flat-square&logo=git&logoColor=white" alt="Sourcebot" />
 </p>
 
 ## 📊 GitHub Stats
