@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=limitcool&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flimitcool&labelColor=%23697689&countColor=%232ccce4" alt="Visitors" />
 </p>
 
 <p align="center">
