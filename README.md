@@ -114,6 +114,7 @@
   <img src="https://img.shields.io/badge/RustDesk-024EFF?style=flat-square&logo=rustdesk&logoColor=white" alt="RustDesk" />
   <img src="https://img.shields.io/badge/AFFiNE-1E96EB?style=flat-square&logo=affine&logoColor=white" alt="AFFiNE" />
   <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Sourcebot-FF6B00?style=flat-square&logo=git&logoColor=white" alt="Sourcebot" />
 </p>
 
