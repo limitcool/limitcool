@@ -26,7 +26,17 @@
 </p>
 
 <p align="center">
+  <a href="https://init.cool"><strong>init.cool</strong></a>
+  ·
+  <a href="https://blog.init.cool"><strong>blog.init.cool</strong></a>
+<p align="center">
+  <sub>home / writing / notes / systems</sub>
+</p>
+
+<p align="center">
   <a href="https://blog.init.cool">📝 Blog</a>
+  ·
+  <a href="https://init.cool">🌐 Site</a>
   ·
   <a href="mailto:initcoool@gmail.com">✉️ Email</a>
 </p>
