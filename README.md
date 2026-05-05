@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  自托管整套栈，自动化无聊部分，把精力留给真正值得折腾的问题。<br />
-  Self-host the stack, automate the boring parts, and focus on problems worth obsessing over.
+  自托管、自动化、可观测性。<br />
+  Self-hosting, automation, observability.
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ mode=self-hosted
 languages=rust,go,python
 interests=observability,automation,ai-workflows
 policy=reuse_mature_tools
-status=shipping
+status=online
 ```
 
 ```yaml
@@ -55,7 +55,7 @@ manifest:
     - python
     - astro
     - svelte
-  principle: "automate the boring parts, keep the sharp edges visible"
+  principle: "reuse proven tools, keep systems operable"
 ```
 
 ## ✨ Snapshot
@@ -64,25 +64,25 @@ manifest:
 
 - 后端系统 / Backend systems
 - 自托管基础设施 / Self-hosted infrastructure
-- 开发者工具与 AI 工作流 / Developer tooling and AI workflows
+- AI 工作流 / AI workflows
 
 ### 🧭 How I Build
 
-- 先复用成熟方案，再考虑自造轮子 / Reuse proven tools before reinventing the wheel
-- 默认追求可观测、可排障、可运维 / Build for observability, debuggability, and operability
-- 偏爱小而硬的改动 / Prefer small, sharp changes
+- 先复用，再实现 / Reuse before building
+- 默认可观测 / Operability by default
+- 小改动，硬边界 / Small changes, hard edges
 
 ### 🚀 Current Focus
 
 - 🤖 AI workflows / AI 工作流
-- 🐳 Self-hosting and observability / 自托管与可观测性
-- 🌐 Web apps and lightweight systems / Web 应用与轻量系统
+- 🐳 Self-hosting / 自托管
+- 🌐 Lightweight systems / 轻量系统
 
 ### 🔗 Links
 
-- 📝 Writing / 写作: [blog.init.cool](https://blog.init.cool)
-- 🌐 Home / 主页: [init.cool](https://init.cool)
-- ✉️ Contact / 联系: [initcoool@gmail.com](mailto:initcoool@gmail.com)
+- 📝 Blog: [blog.init.cool](https://blog.init.cool)
+- 🌐 Home: [init.cool](https://init.cool)
+- ✉️ Email: [initcoool@gmail.com](mailto:initcoool@gmail.com)
 
 ## 🧰 Stack / 工具栈
 
