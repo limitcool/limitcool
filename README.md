@@ -107,6 +107,8 @@
   <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" alt="Hoppscotch" />
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" />
   <img src="https://img.shields.io/badge/Komodo-111111?style=flat-square&logo=docker&logoColor=white" alt="Komodo" />
+  <img src="https://img.shields.io/badge/Pocket%20ID-0F172A?style=flat-square&logo=openid&logoColor=white" alt="Pocket ID" />
+  <img src="https://img.shields.io/badge/TinyAuth-334155?style=flat-square&logo=auth0&logoColor=white" alt="TinyAuth" />
 </p>
 
 <p>
@@ -114,6 +116,8 @@
   <img src="https://img.shields.io/badge/RustDesk-024EFF?style=flat-square&logo=rustdesk&logoColor=white" alt="RustDesk" />
   <img src="https://img.shields.io/badge/AFFiNE-1E96EB?style=flat-square&logo=affine&logoColor=white" alt="AFFiNE" />
   <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/Immich-4250AF?style=flat-square&logo=immich&logoColor=white" alt="Immich" />
+  <img src="https://img.shields.io/badge/Music%20Assistant-0F766E?style=flat-square&logo=musicbrainz&logoColor=white" alt="Music Assistant" />
   <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Sourcebot-FF6B00?style=flat-square&logo=git&logoColor=white" alt="Sourcebot" />
 </p>
