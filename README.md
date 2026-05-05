@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  Backend, infrastructure, automation, and practical AI workflows.
+  使用成熟工具构建，用清晰意图交付。<br />
+  Build with existing tools. Ship with clear intent.
 </p>
 
 <p align="center">
@@ -26,26 +27,26 @@
 
 ### What I Work On
 
-- Reliable backend services
-- Self-hosted infrastructure and automation
-- Developer tooling and practical AI integrations
+- 稳定可靠的后端服务 / Reliable backend services
+- 自托管基础设施与自动化 / Self-hosted infrastructure and automation
+- 开发者工具与实用 AI 集成 / Developer tooling and practical AI integrations
 
 ### How I Build
 
-- Reuse mature tools before reinventing them
-- Keep systems observable and operable
-- Prefer small, clear, maintainable changes
+- 优先复用成熟工具，而不是重复造轮子 / Reuse mature tools before reinventing them
+- 保持系统可观测、可运维 / Keep systems observable and operable
+- 偏好小而清晰、易维护的改动 / Prefer small, clear, maintainable changes
 
 ## Current Focus
 
-- AI workflows and developer productivity
-- Self-hosting, containers, and observability
-- Web applications and lightweight infrastructure
+- AI 工作流与开发效率 / AI workflows and developer productivity
+- 自托管、容器化与可观测性 / Self-hosting, containers, and observability
+- Web 应用与轻量基础设施 / Web applications and lightweight infrastructure
 
 ## Selected Links
 
-- Writing: [blog.init.cool](https://blog.init.cool)
-- Contact: [initcoool@gmail.com](mailto:initcoool@gmail.com)
+- 写作 / Writing: [blog.init.cool](https://blog.init.cool)
+- 联系我 / Contact: [initcoool@gmail.com](mailto:initcoool@gmail.com)
 
 ## Toolbox
 
@@ -70,10 +71,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=limitcool&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limitcool&theme=github" alt="GitHub profile details" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitcool&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=limitcool&theme=github" alt="GitHub languages" />
     </td>
   </tr>
 </table>
