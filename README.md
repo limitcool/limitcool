@@ -26,6 +26,10 @@
   ·
   <a href="https://init.cool">🌐 Home</a>
   ·
+  <a href="https://github.com/limitcool/gatewarden">🛡️ Gatewarden</a>
+  ·
+  <a href="https://uvlio.com">🧰 Uvlio</a>
+  ·
   <a href="mailto:initcoool@gmail.com">✉️ Email</a>
 </p>
 
@@ -58,6 +62,33 @@ manifest:
   principle: "reuse proven tools, keep systems operable"
 ```
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Gatewarden</h3>
+      <p><strong>Open-source AI WAF for self-hosted apps.</strong></p>
+      <p>Built for Caddy, trusted identity headers, deterministic enforcement, and reviewable AI-assisted security operations.</p>
+      <p>
+        <a href="https://github.com/limitcool/gatewarden">Repository</a>
+        ·
+        <a href="https://github.com/limitcool/gatewarden#readme">Docs</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Uvlio</h3>
+      <p><strong>Free online tools for files, text, images, and everyday work.</strong></p>
+      <p>Browser-first utilities that help users finish small tasks fast, with no sign-up and many tools running locally first.</p>
+      <p>
+        <a href="https://uvlio.com">Visit uvlio.com</a>
+        ·
+        <a href="https://uvlio.com/tools">Browse tools</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## ✨ Snapshot
 
 ### 🔧 What I Work On
@@ -74,12 +105,16 @@ manifest:
 
 ### 🚀 Current Focus
 
+- 🛡️ Gatewarden / AI WAF for self-hosted apps
+- 🧰 Uvlio / browser-first online tools
 - 🤖 AI workflows / AI 工作流
 - 🐳 Control planes and self-hosting / 控制面与自托管
 - 🌐 Content systems and lightweight services / 内容系统与轻量服务
 
 ### 🔗 Links
 
+- 🛡️ Gatewarden: [github.com/limitcool/gatewarden](https://github.com/limitcool/gatewarden)
+- 🧰 Uvlio: [uvlio.com](https://uvlio.com)
 - 📝 Blog: [blog.init.cool](https://blog.init.cool)
 - 🌐 Home: [init.cool](https://init.cool)
 - ✉️ Email: [initcoool@gmail.com](mailto:initcoool@gmail.com)
