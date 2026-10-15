@@ -26,8 +26,6 @@
   ·
   <a href="https://init.cool">🌐 Home</a>
   ·
-  <a href="https://github.com/limitcool/gatewarden">🛡️ Gatewarden</a>
-  ·
   <a href="https://uvlio.com">🧰 Uvlio</a>
   ·
   <a href="mailto:initcoool@gmail.com">✉️ Email</a>
@@ -62,28 +60,38 @@ manifest:
   principle: "reuse proven tools, keep systems operable"
 ```
 
-## 🚀 Featured Projects
+## 🚀 Featured Matrix / 精选服务
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Gatewarden</h3>
-      <p><strong>Open-source AI WAF for self-hosted apps.</strong></p>
-      <p>Built for Caddy, trusted identity headers, deterministic enforcement, and reviewable AI-assisted security operations.</p>
-      <p>
-        <a href="https://github.com/limitcool/gatewarden">Repository</a>
-        ·
-        <a href="https://github.com/limitcool/gatewarden#readme">Docs</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧰 Uvlio</h3>
-      <p><strong>Free online tools for files, text, images, and everyday work.</strong></p>
-      <p>Browser-first utilities that help users finish small tasks fast, with no sign-up and many tools running locally first.</p>
+      <p><strong>Browser-first online utilities for everyday tasks.</strong></p>
+      <p>Free web tools for files, text, and images. Fast, no sign-up required, with local-first processing for privacy.</p>
       <p>
         <a href="https://uvlio.com">Visit uvlio.com</a>
         ·
         <a href="https://uvlio.com/tools">Browse tools</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📝 Init Blog</h3>
+      <p><strong>Engineering notes & interactive knowledge graph.</strong></p>
+      <p>Deep dives into self-hosted infra (PVE, NixOS), control planes, system diagnostics, and MCP AI workflows.</p>
+      <p>
+        <a href="https://blog.init.cool">Read Articles</a>
+        ·
+        <a href="https://blog.init.cool/graph">Knowledge Graph</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 InitCool Portal</h3>
+      <p><strong>Personal digital home base & service portal.</strong></p>
+      <p>Running continuously since 2015. Hub for personal projects, self-hosted services, homelab status, and contact links.</p>
+      <p>
+        <a href="https://init.cool">Explore Home</a>
+        ·
+        <a href="mailto:initcoool@gmail.com">Get in touch</a>
       </p>
     </td>
   </tr>
@@ -105,15 +113,14 @@ manifest:
 
 ### 🚀 Current Focus
 
-- 🛡️ Gatewarden / AI WAF for self-hosted apps
 - 🧰 Uvlio / browser-first online tools
-- 🤖 AI workflows / AI 工作流
-- 🐳 Control planes and self-hosting / 控制面与自托管
-- 🌐 Content systems and lightweight services / 内容系统与轻量服务
+- 📝 Init Blog / engineering notes & knowledge graph
+- 🌐 InitCool Portal / self-hosted digital hub
+- 🐳 Control planes and homelab / 控制面与自托管体系
+- 🤖 AI workflows and automation / AI 工作流与自动化
 
 ### 🔗 Links
 
-- 🛡️ Gatewarden: [github.com/limitcool/gatewarden](https://github.com/limitcool/gatewarden)
 - 🧰 Uvlio: [uvlio.com](https://uvlio.com)
 - 📝 Blog: [blog.init.cool](https://blog.init.cool)
 - 🌐 Home: [init.cool](https://init.cool)
