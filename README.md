@@ -36,28 +36,13 @@
 </p>
 
 ```bash
-$ whoami
-limitcool
-
-$ cat /etc/stack/focus.conf
-mode=self-hosted
-languages=rust,go,python
-interests=control-planes,content-systems,automation,ai-workflows
-policy=reuse_mature_tools
-status=operational
-```
-
-```yaml
-manifest:
-  operator: limitcool
-  runtime: homelab + control-planes + content-systems
-  build_with:
-    - rust
-    - go
-    - python
-    - astro
-    - svelte
-  principle: "reuse proven tools, keep systems operable"
+$ cat /etc/stack/operator.env
+USER=limitcool
+RUNTIME=homelab + control-planes + content-systems
+LANGUAGES=rust,go,python,astro,svelte
+FOCUS=control-planes,ai-workflows,automation,self-hosting
+PRINCIPLE="reuse proven tools, keep systems operable"
+STATUS=operational
 ```
 
 ## 🚀 Featured Matrix / 精选服务
@@ -69,9 +54,9 @@ manifest:
       <p><strong>Browser-first online utilities for everyday tasks.</strong></p>
       <p>Free web tools for files, text, and images. Fast, no sign-up required, with local-first processing for privacy.</p>
       <p>
-        <a href="https://uvlio.com">Visit uvlio.com</a>
+        <a href="https://uvlio.com">Visit uvlio.com ↗</a>
         ·
-        <a href="https://uvlio.com/tools">Browse tools</a>
+        <a href="https://uvlio.com/tools">Browse tools →</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -79,9 +64,9 @@ manifest:
       <p><strong>Engineering notes & interactive knowledge graph.</strong></p>
       <p>Deep dives into self-hosted infra (PVE, NixOS), control planes, system diagnostics, and MCP AI workflows.</p>
       <p>
-        <a href="https://blog.init.cool">Read Articles</a>
+        <a href="https://blog.init.cool">Read Articles ↗</a>
         ·
-        <a href="https://blog.init.cool/graph">Knowledge Graph</a>
+        <a href="https://blog.init.cool/graph">Knowledge Graph ↗</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -89,9 +74,9 @@ manifest:
       <p><strong>Personal digital home base & service portal.</strong></p>
       <p>Running continuously since 2015. Hub for personal projects, self-hosted services, homelab status, and contact links.</p>
       <p>
-        <a href="https://init.cool">Explore Home</a>
+        <a href="https://init.cool">Explore Home ↗</a>
         ·
-        <a href="mailto:initcoool@gmail.com">Get in touch</a>
+        <a href="mailto:initcoool@gmail.com">Get in touch ✉️</a>
       </p>
     </td>
   </tr>
@@ -132,7 +117,7 @@ manifest:
 
 <table>
   <tr>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:rust.svg?color=%23000000" alt="Rust" width="42" height="42" /><br /><sub>Rust</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:rust.svg?color=%23DEA584" alt="Rust" width="42" height="42" /><br /><sub>Rust</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:go.svg?color=%2300ADD8" alt="Go" width="42" height="42" /><br /><sub>Go</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" width="42" height="42" /><br /><sub>Python</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" alt="JavaScript" width="42" height="42" /><br /><sub>JavaScript</sub></td>
@@ -162,7 +147,7 @@ manifest:
 <table>
   <tr>
     <td align="center"><img src="https://api.iconify.design/simple-icons:grafana.svg?color=%23F46800" alt="Grafana" width="42" height="42" /><br /><sub>Grafana</sub></td>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:elasticsearch.svg?color=%23005571" alt="Elasticsearch" width="42" height="42" /><br /><sub>Elasticsearch</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:elasticsearch.svg?color=%2300BFB3" alt="Elasticsearch" width="42" height="42" /><br /><sub>Elasticsearch</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:postman.svg?color=%23FF6C37" alt="Postman" width="42" height="42" /><br /><sub>Postman</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:prometheus.svg?color=%23E6522C" alt="Prometheus" width="42" height="42" /><br /><sub>Prometheus</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/caddy.svg" alt="Caddy" width="42" height="42" /><br /><sub>Caddy</sub></td>
@@ -222,13 +207,13 @@ manifest:
   <tr>
     <td align="center"><img src="https://api.iconify.design/simple-icons:bitwarden.svg?color=%23175DDC" alt="Bitwarden" width="42" height="42" /><br /><sub>Bitwarden</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:homeassistant.svg?color=%2318BCF2" alt="Home Assistant" width="42" height="42" /><br /><sub>Home Assistant</sub></td>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:homepage.svg?color=%23111111" alt="Homepage" width="42" height="42" /><br /><sub>Homepage</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:homepage.svg?color=%2300ADFF" alt="Homepage" width="42" height="42" /><br /><sub>Homepage</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:hoppscotch.svg?color=%2331C48D" alt="Hoppscotch" width="42" height="42" /><br /><sub>Hoppscotch</sub></td>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:openid.svg?color=%230F172A" alt="Pocket ID" width="42" height="42" /><br /><sub>Pocket ID</sub></td>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:auth0.svg?color=%23334155" alt="TinyAuth" width="42" height="42" /><br /><sub>TinyAuth</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:openid.svg?color=%23F78C40" alt="Pocket ID" width="42" height="42" /><br /><sub>Pocket ID</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:auth0.svg?color=%23EB5424" alt="TinyAuth" width="42" height="42" /><br /><sub>TinyAuth</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://api.iconify.design/simple-icons:matrix.svg?color=%23000000" alt="Matrix" width="42" height="42" /><br /><sub>Matrix</sub></td>
+    <td align="center"><img src="https://api.iconify.design/simple-icons:matrix.svg?color=%230DBD8B" alt="Matrix" width="42" height="42" /><br /><sub>Matrix</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:rustdesk.svg?color=%23024EFF" alt="RustDesk" width="42" height="42" /><br /><sub>RustDesk</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:affine.svg?color=%231E96EB" alt="AFFiNE" width="42" height="42" /><br /><sub>AFFiNE</sub></td>
     <td align="center"><img src="https://api.iconify.design/simple-icons:jellyfin.svg?color=%2300A4DC" alt="Jellyfin" width="42" height="42" /><br /><sub>Jellyfin</sub></td>
